@@ -19,6 +19,10 @@ To start program, run from the terminal:
 
 `python3 color_range_selector.py <color_space {lab, rgb, hsv}> <filename>`
 
-Selected values are visible in the terminal.
+An example:
+
+`python3 color_range_selector.py lab image.jpg`
+
+Selected threshold values are visible in the terminal.
 
 To stop and quit, press ESC button.
