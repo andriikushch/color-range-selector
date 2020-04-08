@@ -11,7 +11,7 @@ To run, you need:
 - python3 interpreter
 - opencv lib
 
-To install opencv execute the following command `pip install -r requirements.txt`
+To install `opencv` execute the following command `pip3 install -r requirements.txt`
 
 # Run
 
